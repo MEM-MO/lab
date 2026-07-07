@@ -1,0 +1,2 @@
+grafana:
+  adminPassword: hello-world-this-is-not-exposed
